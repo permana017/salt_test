@@ -4,7 +4,7 @@ function Sepeciality() {
   return (
     <div className="w-full flex justify-center bg-[#509FDD] py-10">
       <div className="container">
-        <div className=" bg-white w-full  px-8">
+        <div className="relative bg-white w-full  px-8 z-10">
           <div className=" py-10">
             <h1 className="text-2xl font-semibold mb-4 text-[#029FE4]">
               OUR SPECIALITY
