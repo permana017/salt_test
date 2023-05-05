@@ -1,6 +1,5 @@
 import React from "react";
 import "./style.css";
-import bg from "../../assets/image/banner/hero_image.png";
 
 function Banner() {
   return (
